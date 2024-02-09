@@ -21,6 +21,4 @@ COPY . .
 
 EXPOSE 8000
 
-ENV MY_NAME=IMRAN_HOSSEN
-
 CMD [ "venv/bin/python3", "main.py" ]

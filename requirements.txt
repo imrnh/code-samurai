@@ -3,4 +3,4 @@ passlib[bcrypt]
 fastapi
 uvicorn
 python-multipart
-psycopg2
+psycopg2-binary
